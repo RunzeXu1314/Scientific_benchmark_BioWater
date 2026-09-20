@@ -4,7 +4,9 @@
 
 **Benchmarking scientific capability · Human–AI collaboration · Sustainable local deployment**
 
-## 👥 Authors
+## 👥 Paper & Authors
+
+**Scientific capabilities and deployment sustainability of small-scale LLMs in biological wastewater treatment**
 
 **Runze Xu¹²**, **Chu-Kuan Jiang¹**, **Dylan Ming-Han Li¹**, **Hong-Xiao Guo¹**, **Jia-shun Cao²**, **Guang-Hao Chen¹***
 
