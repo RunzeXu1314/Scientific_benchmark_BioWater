@@ -4,6 +4,23 @@
 
 **Benchmarking scientific capability · Human–AI collaboration · Sustainable local deployment**
 
+## 👥 Authors
+
+**Runze Xu¹²**, **Chu-Kuan Jiang¹**, **Dylan Ming-Han Li¹**, **Hong-Xiao Guo¹**, **Jia-shun Cao²**, **Guang-Hao Chen¹***
+
+¹ Department of Civil and Environmental Engineering, Water Technology Center, Hong Kong Branch of Chinese National Engineering Research Center for Control & Treatment of Heavy Metal Pollution, The Hong Kong University of Science and Technology, Hong Kong, China
+  
+² College of Environment, Hohai University, Nanjing 210098, China
+  
+**\*Contact email:** runzexu@ust.hk; runzexu@hhu.edu.cn
+**\* Correspondence:** redjiang@ust.hk; ceghchen@ust.hk
+
+### Research Team
+
+This repository accompanies our research on **BioWater**, a domain-specialized small language model developed for scientific research and sustainable intelligent wastewater treatment.
+
+For questions regarding the benchmark, datasets, evaluation protocols, or reproducibility, please contact the corresponding author or open an issue in this repository.
+
 
 </div>
 
