@@ -15,11 +15,6 @@
 **\*Contact email:** runzexu@ust.hk; runzexu@hhu.edu.cn
 **\* Correspondence:** redjiang@ust.hk; ceghchen@ust.hk
 
-### Research Team
-
-This repository accompanies our research on **BioWater**, a domain-specialized small language model developed for scientific research and sustainable intelligent wastewater treatment.
-
-For questions regarding the benchmark, datasets, evaluation protocols, or reproducibility, please contact the corresponding author or open an issue in this repository.
 
 
 </div>
