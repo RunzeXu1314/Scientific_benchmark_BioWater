@@ -66,3 +66,48 @@ These values are **scenario-dependent rather than prescriptive operational
 thresholds**. The central finding is the underlying trend: as inference demand
 increases, the environmental and economic advantages of locally deployed
 small-scale LLMs become increasingly pronounced.
+
+## 🧪 Scientific Benchmark
+
+Our benchmark was designed to evaluate scientific capability beyond conventional
+knowledge-based question answering.
+
+| Dimension | Core question |
+|---|---|
+| 🧠 **Retrospective Cognition** | Can the model reason from established scientific knowledge? |
+| 🔬 **Comprehension Fidelity** | Can the model faithfully understand specialized scientific information? |
+| 🔭 **Prospective Extrapolation** | Can the model reason beyond existing observations towards scientifically meaningful hypotheses? |
+
+Together, these dimensions evaluate the transition from **understanding existing
+science** to **supporting future scientific discovery**.
+
+## 📂 Repository Contents
+
+This repository provides the datasets, evaluation results, prompts, and analysis scripts used to benchmark the scientific capabilities of BioWater and to assess the environmental and economic sustainability of LLM deployment in wastewater treatment plants.
+
+```text
+Scientific_benchmark_BioWater/
+│
+├── Evaluation results/
+│   ├── Results of comprehension fidelity task.xlsx
+│   ├── Results of environmental and economic sustainability evaluation.xlsx
+│   ├── Results of prospective extrapolation task.xlsx
+│   └── Results of retrospective cognition task.xlsx
+│
+├── Materials for BioWater data analysis/
+│   ├── Data analysis by BioWater.py
+│   └── prompt_template.txt
+│
+└── Materials for comprehension fidelity task/
+    │
+    ├── prompt_templates/
+    │   └── prompt template.txt
+    │
+    ├── utils/
+    │   ├── data_utils.py
+    │   ├── general_utils.py
+    │   └── model_utils.py
+    │
+    ├── Abstract-test for LLMs.py
+    ├── Abstract-test for human experts.html
+    └── Abstractdata.csv
