@@ -1,7 +1,3 @@
-# Scientific_benchmark_BioWater
-The benchmark framework designed for evaluating the scientific capability of LLMs. 
-<div align="center">
-
 # 🌊 BioWater
 
 ### A Domain-Specialized Small Language Model for Scientific Research and Sustainable Intelligent Wastewater Treatment
