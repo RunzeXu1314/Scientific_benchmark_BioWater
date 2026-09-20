@@ -4,7 +4,6 @@
 
 **Benchmarking scientific capability · Human–AI collaboration · Sustainable local deployment**
 
-[Paper](PAPER_LINK) · [Dataset](DATA_LINK) · [Benchmark](#benchmark) · [Citation](#citation)
 
 </div>
 
