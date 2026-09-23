@@ -4,9 +4,13 @@
 
 **Benchmarking scientific capability · Human–AI collaboration · Sustainable local deployment**
 
-## 👥 Paper & Authors
+## 📢 Paper Now Available on arXiv
 
-**Scientific capabilities and deployment sustainability of small-scale LLMs in biological wastewater treatment**
+Our paper **"Scientific capabilities and deployment sustainability of small-scale LLMs in biological wastewater treatment"** is now publicly available on **arXiv**.
+
+📄 **Read the paper:**  
+https://arxiv.org/abs/2609.25774
+
 
 **Runze Xu¹²**, **Chu-Kuan Jiang¹**, **Dylan Ming-Han Li¹**, **Hong-Xiao Guo¹**, **Jia-shun Cao²**, **Guang-Hao Chen¹***
 
@@ -17,7 +21,10 @@
 **\*Contact email:** runzexu@ust.hk; runzexu@hhu.edu.cn
 **\* Correspondence:** redjiang@ust.hk; ceghchen@ust.hk
 
+**arXiv:** 2609.25774  
+**Primary category:** Computational Engineering, Finance, and Science (cs.CE)
 
+> If you are interested in our work, please consider citing the paper and ⭐ starring this repository.
 
 </div>
 
